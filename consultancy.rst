@@ -7,8 +7,8 @@ Consultancy and collaboration
 
 The group can contribute independent technical expertise, bespoke analysis or collaborative research. The most useful engagements start with a well-framed decision: what needs to be understood, which options are in scope and what evidence would make a difference.
 
-How we can help
----------------
+How we can help?
+----------------
 
 .. raw:: html
 
