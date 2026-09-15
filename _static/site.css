@@ -8,9 +8,9 @@
   --line: #d9dde1;
   --paper: #ffffff;
   --wash: #f5f6f6;
-  --accent: #8c1d40;
-  --accent-dark: #68142f;
-  --accent-pale: #f5e9ed;
+  --accent: #0065bd;
+  --accent-dark: #004b8d;
+  --accent-pale: #e8f2fb;
   --max-width: 72rem;
 }
 
@@ -104,7 +104,7 @@ ul { max-width: 48rem; padding-left: 1.2rem; }
   overflow: hidden;
   margin: -3.5rem -2rem 3.8rem;
   padding: clamp(4rem, 9vw, 8rem) max(2rem, calc((100% - var(--max-width)) / 2 + 2rem));
-  background: linear-gradient(125deg, #241119 0%, #4d1730 46%, #8c1d40 100%);
+  background: linear-gradient(125deg, #08233f 0%, #004b8d 46%, #0065bd 100%);
   color: #fff;
 }
 
@@ -121,7 +121,7 @@ ul { max-width: 48rem; padding-left: 1.2rem; }
 }
 
 .hero > * { position: relative; z-index: 1; }
-.hero .eyebrow { margin: 0 0 1rem; color: #f7dbe4; font-size: .78rem; font-weight: bold; letter-spacing: .13em; text-transform: uppercase; }
+.hero .eyebrow { margin: 0 0 1rem; color: #d9efff; font-size: .78rem; font-weight: bold; letter-spacing: .13em; text-transform: uppercase; }
 .hero h1 { max-width: 15ch; color: #fff; }
 .hero .lead { max-width: 43rem; margin: 0; color: #fff; font-size: clamp(1.1rem, 2vw, 1.35rem); line-height: 1.55; }
 .hero-actions { display: flex; flex-wrap: wrap; gap: .8rem; margin-top: 2rem; }
@@ -173,7 +173,7 @@ ul { max-width: 48rem; padding-left: 1.2rem; }
   line-height: 1.35;
 }
 .contact-form textarea { resize: vertical; }
-.contact-form input:focus, .contact-form select:focus, .contact-form textarea:focus { outline: 3px solid rgba(140, 29, 64, .24); outline-offset: 1px; border-color: var(--accent); }
+.contact-form input:focus, .contact-form select:focus, .contact-form textarea:focus { outline: 3px solid rgba(0, 101, 189, .24); outline-offset: 1px; border-color: var(--accent); }
 .contact-form button {
   padding: .7rem 1.1rem;
   border: 1px solid var(--accent);
