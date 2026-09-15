@@ -1,0 +1,46 @@
+{% extends "!layout.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  <meta name="theme-color" content="#8c1d40">
+  <meta name="description" content="Research and consultancy in environmental fluid mechanics and hydro-computation at the University of Edinburgh.">
+{% endblock %}
+
+{% block relbar1 %}
+<header class="site-header">
+  <div class="site-header__inner">
+    <a class="wordmark" href="{{ pathto('index') }}" aria-label="Edinburgh Hydro-computation Group home">
+      <span class="wordmark__mark" aria-hidden="true">EH</span>
+      <span><strong>Edinburgh Hydro-computation Group</strong><small>University of Edinburgh</small></span>
+    </a>
+    <nav class="site-nav" aria-label="Primary navigation">
+      <a href="{{ pathto('research') }}">Research</a>
+      <a href="{{ pathto('consultancy') }}">Consultancy</a>
+      <a href="{{ pathto('people') }}">People</a>
+      <a href="{{ pathto('contact') }}">Contact</a>
+    </nav>
+  </div>
+</header>
+{% endblock %}
+
+{% block relbar2 %}{% endblock %}
+
+{% block document %}
+<div class="page page--{{ pagename }}">
+  {{ super() }}
+</div>
+{% endblock %}
+
+{% block footer %}
+<footer class="site-footer">
+  <div>
+    <strong>Edinburgh Hydro-computation Group</strong><br>
+    School of Engineering · University of Edinburgh
+  </div>
+  <div>
+    <a href="{{ pathto('contact') }}">Contact the group</a>
+    <span aria-hidden="true"> · </span>
+    <a href="https://github.com/UoE-HydroComputation">GitHub</a>
+  </div>
+</footer>
+{% endblock %}
