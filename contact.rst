@@ -16,7 +16,7 @@ Use the form below for an initial research, collaboration or consultancy enquiry
      Replace REPLACE_WITH_FORMSPREE_FORM_ID after creating the form in
      Formspree. Recipients are configured in the Formspree dashboard, not here.
    -->
-   <form class="contact-form" action="https://formspree.io/f/REPLACE_WITH_FORMSPREE_FORM_ID" method="POST">
+   <form class="contact-form" action="https://formspree.io/f/https://formspree.io/f/xvkgpzkl" method="POST">
      <input type="hidden" name="_subject" value="[HydroComputation-Enquiry] New website enquiry">
      <input type="hidden" name="_next" value="https://uoe-hydrocomputation.github.io/thanks.html">
      <input class="form-trap" type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true">
