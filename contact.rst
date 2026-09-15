@@ -3,7 +3,7 @@ Contact
 
 .. raw:: html
 
-   <p class="page-intro">For a research collaboration, technical discussion or consultancy enquiry, contact the group through its agreed University point of contact.</p>
+   <p class="page-intro">For a research collaboration, technical discussion or consultancy enquiry, reach out below.</p>
 
 Get in touch
 ------------
@@ -33,14 +33,11 @@ Use the form below for an initial research, collaboration or consultancy enquiry
      <button type="submit">Send enquiry</button>
    </form>
 
-.. raw:: html
-
-   <aside class="notice"><p><strong>Before launch:</strong> replace the Formspree form ID above, configure both University recipients in Formspree and test a submission. See <code>README.md</code> for the setup checklist.</p></aside>
 
 What to include in an enquiry
 -----------------------------
 
-- The decision or research question you are trying to address.
+- The research question or challenge you are trying to address.
 - A short description of the site or system, including geography where relevant.
 - Available data, reports or previous modelling work.
 - Your preferred timescale and the type of collaboration you have in mind.
