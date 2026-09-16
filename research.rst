@@ -37,6 +37,17 @@ Software and open practice
 
 Where appropriate, we release software, datasets and workflows that allow research results to be inspected, reused and extended. Add links here to the group's GitHub organisation, key software projects and data repositories.
 
+Publications
+------------
+
+The live bibliography below includes journal papers, conference proceedings, book chapters and other research outputs associated with the group’s work. Use the links within an entry to reach the publisher, DOI or available manuscript.
+
 .. raw:: html
 
-   <aside class="notice"><p><strong>Editorial choice:</strong> retain only projects that help a potential collaborator understand what the group can do now. Completed projects and publication lists can live on a separate archive page once there is enough material to justify one.</p></aside>
+   <div class="bibliography" id="group-publications">
+     <script src="https://bibbase.org/show?bib=https%3A%2F%2Fraw.githubusercontent.com%2FUoE-HydroComputation%2FUoE-HydroComputation.github.io%2Fmain%2FPublications.bib&amp;commas=true&amp;jsonp=1"></script>
+   </div>
+
+.. raw:: html
+
+   <aside class="notice"><p><strong>Maintaining this list:</strong> co-owners can edit <code>Publications.bib</code> directly in this repository. The list refreshes automatically after the change is committed and the site is redeployed.</p></aside>

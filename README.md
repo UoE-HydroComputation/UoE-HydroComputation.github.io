@@ -16,7 +16,7 @@ The source files are plain reStructuredText. `index.rst` is the landing page; th
 
 ## Publications
 
-`publications.rst` follows the personal site by using BibBase to render the maintained BibTeX record at runtime. This avoids manually copying a long publication list into the group site during its initial setup. The source URL is documented in `publications.rst`; replace it with a group-owned bibliography when responsibility for maintaining the record moves to the group.
+The editable, group-owned publication record is [`Publications.bib`](Publications.bib). The Research page uses BibBase to render this file as a live bibliography. To add or correct an entry, edit the BibTeX file, commit it and allow the Pages deployment to complete. No manual changes to `research.rst` are needed for ordinary bibliography updates.
 
 ## Before publishing
 
