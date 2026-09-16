@@ -1,13 +1,6 @@
 Contact
 =======
 
-.. raw:: html
-
-   <p class="page-intro">For a research collaboration, technical discussion or consultancy enquiry, reach out below.</p>
-
-Get in touch
-------------
-
 Use the form below for an initial research, collaboration or consultancy enquiry. We request only the information needed to understand the enquiry and reply.
 
 .. raw:: html
@@ -36,6 +29,8 @@ Use the form below for an initial research, collaboration or consultancy enquiry
 
 What to include in an enquiry
 -----------------------------
+
+For us to respond effectively, some context would be useful. For example 
 
 - The research question or challenge you are trying to address.
 - A short description of the site or system, including geography where relevant.
