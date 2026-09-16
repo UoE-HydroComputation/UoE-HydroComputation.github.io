@@ -188,6 +188,26 @@ ul { max-width: 48rem; padding-left: 1.2rem; }
 .form-consent { color: var(--muted); font-size: .84rem; line-height: 1.5; }
 .form-trap { position: absolute; left: -10000px; width: 1px; height: 1px; overflow: hidden; }
 
+/* BibBase writes these classes at page load; the rules keep the live list
+   consistent with the rest of the site without duplicating bibliography data. */
+.bibliography { max-width: 58rem; }
+.bibliography .bibbase_group { margin: 2.5rem 0; }
+.bibliography .bibbase_group_title {
+  margin-bottom: .9rem;
+  color: var(--ink);
+  font-family: Georgia, 'Times New Roman', serif;
+  font-size: 1.5rem;
+}
+.bibliography .bibbase_paper {
+  margin: 0;
+  padding: 1rem 0;
+  border-top: 1px solid var(--line);
+  line-height: 1.55;
+}
+.bibliography .bibbase_paper:last-child { border-bottom: 1px solid var(--line); }
+.bibliography .bibbase_paper_title { font-weight: bold; }
+.bibliography .bibbase_icon { margin-left: .4rem; }
+
 .site-footer {
   align-items: flex-start;
   border-top: 1px solid var(--line);

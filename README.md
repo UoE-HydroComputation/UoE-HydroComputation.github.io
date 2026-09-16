@@ -14,6 +14,10 @@ open _build/html/index.html
 
 The source files are plain reStructuredText. `index.rst` is the landing page; the other top-level `.rst` files map to the navigation.
 
+## Publications
+
+`publications.rst` follows the personal site by using BibBase to render the maintained BibTeX record at runtime. This avoids manually copying a long publication list into the group site during its initial setup. The source URL is documented in `publications.rst`; replace it with a group-owned bibliography when responsibility for maintaining the record moves to the group.
+
 ## Before publishing
 
 1. Replace every bracketed placeholder in `people.rst` and `contact.rst` with verified details.

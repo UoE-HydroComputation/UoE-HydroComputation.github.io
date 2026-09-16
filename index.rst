@@ -65,6 +65,7 @@ Research themes
    :hidden:
 
    research
+   publications
    consultancy
    people
    contact
