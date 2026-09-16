@@ -148,6 +148,7 @@ ul { max-width: 48rem; padding-left: 1.2rem; }
 .card a { font-weight: bold; }
 .project-logo { display: block; width: auto; max-width: 100%; height: 4rem; margin: 0 0 1.1rem; object-fit: contain; object-position: left center; }
 .project-logo--square { width: 4rem; }
+.software-logo { display: block; width: auto; max-width: 100%; height: 3.1rem; margin: 0 0 1.1rem; object-fit: contain; object-position: left center; }
 .feature { margin: 3.7rem 0; padding: 2rem; border-left: 5px solid var(--accent); background: var(--accent-pale); }
 .feature h2 { margin-top: 0; }
 .feature p:last-child { margin-bottom: 0; }
