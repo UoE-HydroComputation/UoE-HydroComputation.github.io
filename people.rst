@@ -23,6 +23,7 @@ Current members
    <div class="cards">
      <article class="card"><h3>Dr Tian Tan</h3><p><strong>Research Associate</strong><br>Research in hydro-environmental modelling for tidal-stream energy.</p></article>
      <article class="card"><h3>Emils Brazovskis</h3><p><strong>PhD Researcher</strong><br>Research in uncertainty quantification in coastal ocean models.</p></article>
+     <article class="card"><h3>Bryn Townley</h3><p><strong>PhD Researcher</strong><br>Research on device-scale computational fluid dynamics</p></article>
      <article class="card"><h3>Michalis Constantas</h3><p><strong>PhD Researcher</strong><br>Research on array optimisation.</p></article>
      <article class="card"><h3>Alexandra Dukic</h3><p><strong>PhD Researcher</strong><br>Research on downscaling of regional ocean models.</p></article>
    </div>
@@ -37,9 +38,9 @@ Our alumni have contributed to research across marine renewable energy, environm
 - Dr Misha Patel — DPhil Researcher, University of Oxford (2020–2024).
 - Dr Anastasia Fragkou — PhD Researcher, University of Edinburgh (2019–2023).
 - Dr Lucas Mackie — PhD Researcher, Imperial College London (2018–2021).
-- Dr Chris Old — Senior Research Associate in Marine Renewable Energy, University of Edinburgh (2022–2023).
-- Dr Nguyen Chien — Research Associate in Coastal Ocean Digital Twins, University of Edinburgh (2023–2025).
-- Dr Yaling Chen — Research Associate in Hydro-environmental Modelling for Tidal-stream Energy, University of Edinburgh (2024–2025).
+- Dr Chris Old — Research Associate in Marine Energy, University of Edinburgh (2022–2023).
+- Dr Nguyen Quang Chien — Research Associate in Ocean Digital Twins, University of Edinburgh (2023–2025).
+- Dr Yaling Chen — Research Associate in Tidal-stream Energy, University of Edinburgh (2024–2025).
 
 .. 
 .. Keep affiliations and links current before each public site release.
