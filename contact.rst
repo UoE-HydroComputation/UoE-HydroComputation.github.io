@@ -22,7 +22,7 @@ Use the form below for an initial research, collaboration or consultancy enquiry
      </div>
 
      <p><label for="message">How can we help? <span aria-hidden="true">*</span></label><textarea id="message" name="message" rows="7" required></textarea></p>
-     <p class="form-consent">By submitting, you consent to us using these details to respond to your enquiry. Do not include sensitive personal, commercial or confidential information in this form.</p>
+     <p class="form-consent">We use your details only to respond to your enquiry. Do not include sensitive personal, commercial or confidential information. <a href="privacy.html">Read our privacy notice</a>.</p>
      <button type="submit">Send enquiry</button>
    </form>
 
@@ -34,7 +34,7 @@ For us to respond effectively, some context would be useful. For example
 
 - The research question or challenge you are trying to address.
 - A short description of the site or system, including geography where relevant.
-- Available data, reports or previous modelling work.
+- A high-level, non-confidential summary of any relevant data, reports or previous modelling work.
 - Your preferred timescale and the type of collaboration you have in mind.
 
-This helps us decide whether a conversation, a scoping exercise or a different route is the right next step.
+This helps us decide whether a conversation, a scoping exercise or a different route is the right next step. If you need to share confidential material, please ask us to arrange an approved University channel before sending it.

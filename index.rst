@@ -66,3 +66,4 @@ Research themes
    consultancy
    people
    contact
+   privacy
