@@ -33,14 +33,15 @@ Alumni
 
 Our alumni have contributed to research across marine renewable energy, environmental fluid mechanics and computational engineering.
 
-- Dr Phoebe Hudson — PhD Researcher, University of Edinburgh (2020–2025).
-- Dr Konstantinos Pappas — PhD Researcher, University of Edinburgh (2021–2025).
-- Dr Misha Patel — DPhil Researcher, University of Oxford (2020–2024).
-- Dr Anastasia Fragkou — PhD Researcher, University of Edinburgh (2019–2023).
-- Dr Lucas Mackie — PhD Researcher, Imperial College London (2018–2021).
-- Dr Chris Old — Research Associate in Marine Energy, University of Edinburgh (2022–2023).
-- Dr Nguyen Quang Chien — Research Associate in Ocean Digital Twins, University of Edinburgh (2023–2025).
-- Dr Yaling Chen — Research Associate in Tidal-stream Energy, University of Edinburgh (2024–2025).
+- Dr N Chien — Postdoctoral researcher in Ocean Digital Twins, University of Edinburgh (2023–2025).
+- Dr Y Chen — Postdoctoral researcher in Tidal Stream Energy, University of Edinburgh (2024–2025).
+- Dr C Old — Postdoctoral researcher in Marine Energy, University of Edinburgh (2022–2023).
+- Dr P Hudson — PhD Researcher, University of Edinburgh (2020–2025).
+- Dr K Pappas — PhD Researcher, University of Edinburgh (2021–2025).
+- Dr M Patel — DPhil Researcher, University of Oxford (2020–2024).
+- Dr A Fragkou — PhD Researcher, University of Edinburgh (2019–2023).
+- Dr L Mackie — PhD Researcher, Imperial College London (2018–2021).
+
 
 .. 
 .. Keep affiliations and links current before each public site release.

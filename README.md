@@ -16,7 +16,7 @@ The source files are plain reStructuredText. `index.rst` is the landing page; th
 
 ## Publications
 
-The editable, group-owned publication record is [`Publications.bib`](Publications.bib). The Research page uses BibBase to render this file as a live bibliography. To add or correct an entry, edit the BibTeX file, commit it and allow the Pages deployment to complete. No manual changes to `research.rst` are needed for ordinary bibliography updates.
+The editable, group-owned publication record is [`Publications.bib`](Publications.bib). The Publications page uses BibBase to render this file as a live bibliography. To add or correct an entry, edit the BibTeX file, commit it and allow the Pages deployment to complete. No manual changes to `publications.rst` are needed for ordinary bibliography updates.
 
 ## Before publishing
 
