@@ -46,7 +46,7 @@ Our alumni have contributed to research across marine renewable energy, environm
 .. 
 .. Keep affiliations and links current before each public site release.
 
-Collaborate with us
--------------------
+Opportunities
+-------------
 
-For prospective PhD students, postdoctoral researchers, visiting researchers and project partners, see the formal opportunities advertised by the University of Edinburgh or contact the group directly.
+We welcome enquiries from prospective PhD students, postdoctoral researchers and visiting researchers. See the formal opportunities advertised by the University of Edinburgh or contact the group directly.

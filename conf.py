@@ -19,4 +19,3 @@ html_show_sourcelink = False
 html_show_sphinx = False
 html_last_updated_fmt = ""
 html_sidebars = {"**": []}
-
