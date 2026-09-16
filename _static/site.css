@@ -146,6 +146,10 @@ ul { max-width: 48rem; padding-left: 1.2rem; }
 .card { padding: 1.5rem; border-top: 4px solid var(--accent); background: var(--wash); }
 .card p { margin: 0; font-size: .96rem; }
 .card a { font-weight: bold; }
+.card-meta { color: var(--muted); font-size: .9rem; }
+.person-photo { display: block; width: 100%; aspect-ratio: 1 / 1; margin: 0 0 1.1rem; object-fit: cover; object-position: center top; }
+.profile-photo { display: block; width: 12rem; max-width: 100%; aspect-ratio: 1 / 1; margin: 0 0 1.5rem; object-fit: cover; object-position: center top; }
+.person-photo--connor { object-position: center 11%; }
 .card-kicker { margin: 0 0 .7rem !important; color: var(--accent); font-size: .72rem !important; font-weight: bold; letter-spacing: .1em; text-transform: uppercase; }
 .consultancy-projects { grid-template-columns: repeat(2, minmax(0, 1fr)); margin-bottom: 3.6rem; }
 .organisation-marks { display: flex; flex-wrap: wrap; gap: .75rem; max-width: 62rem; margin: 1.7rem 0 3.7rem; padding: 0; list-style: none; }
