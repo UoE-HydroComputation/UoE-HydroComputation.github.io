@@ -19,6 +19,13 @@ Focus areas
      <div><h3>Optimisation and uncertainty</h3><p>Efficient methods for comparing design options and communicating the confidence and limits of model results.</p></div>
    </div>
 
+Publications
+------------
+
+Browse the group’s research outputs, including journal papers, conference proceedings and book chapters.
+
+`Browse the group’s publications → <publications.html>`_
+
 Selected projects
 -----------------
 
@@ -45,11 +52,7 @@ We use and contribute to open-source software, datasets and workflows that make 
 
    <div class="cards">
      <article class="card"><img class="software-logo" src="https://thetisproject.org/_static/banner.jpg" alt="Thetis project logo"><h3><a href="https://thetisproject.org/">Thetis</a></h3><p>An open-source coastal-ocean model built on Firedrake. We use and contribute to Thetis for hydrodynamic, transport and marine-energy applications.</p></article>
-     <article class="card"><h3><a href="https://github.com/qmesh3/qmesh3">QMesh3</a></h3><p>An open-source mesh-generation workflow for geospatial and coastal-ocean modelling. We use and contribute to QMesh3 in preparing computational domains.</p></article>
+     <article class="card"><img class="software-logo software-logo--square" src="_static/media/qmesh3.png" alt="qmesh3 logo"><h3><a href="https://github.com/qmesh3/qmesh3">qmesh3</a></h3><p>An open-source mesh-generation workflow for geospatial and coastal-ocean modelling. We use and contribute to qmesh3 in preparing computational domains.</p></article>
      <article class="card"><img class="software-logo" src="https://www.firedrakeproject.org/_static/banner.png" alt="Firedrake project logo"><h3><a href="https://www.firedrakeproject.org/">Firedrake</a></h3><p>An automated finite-element framework used as the computational foundation for Thetis and other model development. We use Firedrake in our hydro-computational workflows.</p></article>
-     <article class="card"><h3><a href="https://www.opentelemac.org/">TELEMAC-MASCARET</a></h3><p>An established suite of free-surface hydraulic and coastal modelling tools. We use TELEMAC alongside other models for comparison and complementary analysis.</p></article>
+     <article class="card"><img class="software-logo" src="_static/media/telemac.png" alt="TELEMAC-MASCARET logo"><h3><a href="https://www.opentelemac.org/">TELEMAC-MASCARET</a></h3><p>An established suite of free-surface hydraulic and coastal modelling tools. We use TELEMAC alongside other models for comparison and complementary analysis.</p></article>
    </div>
-
-.. raw:: html
-
-   <p><a href="publications.html">Browse the group’s publications →</a></p>

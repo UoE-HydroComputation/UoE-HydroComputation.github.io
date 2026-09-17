@@ -8,7 +8,7 @@ copyright = f"{date.today().year}, {author}"
 
 extensions = ["sphinx.ext.githubpages"]
 templates_path = ["_templates"]
-exclude_patterns = ["_build", "Thumbs.db", ".DS_Store"]
+exclude_patterns = ["_build", ".venv", "Thumbs.db", ".DS_Store"]
 
 html_theme = "alabaster"
 html_static_path = ["_static"]
@@ -19,4 +19,3 @@ html_show_sourcelink = False
 html_show_sphinx = False
 html_last_updated_fmt = ""
 html_sidebars = {"**": []}
-

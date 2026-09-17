@@ -9,7 +9,8 @@ Edinburgh Hydro-computation Group
      <p class="lead">We develop and apply numerical models to understand environmental flows, support resilient infrastructure and enable responsible marine-energy development.</p>
      <div class="hero-actions">
        <a class="button" href="research.html">Explore our research</a>
-       <a class="button button--quiet" href="consultancy.html">Work with us</a>
+       <a class="button button--quiet" href="consultancy.html">Consultancy &amp; collaboration</a>
+       <a class="button button--quiet" href="people.html#opportunities">Opportunities</a>
      </div>
    </section>
 
@@ -57,10 +58,6 @@ Research themes
      <div><h3>Digital twins and data integration</h3><p>Combining models, observations and uncertainty for marine applications.</p></div>
    </div>
 
-.. raw:: html
-
-   <aside class="notice"><p><strong>Template note.</strong> This initial page uses a deliberately broad description of the group. Before public release, replace or remove any theme, service or affiliation that does not reflect the group’s agreed remit.</p></aside>
-
 .. toctree::
    :hidden:
 
@@ -69,3 +66,4 @@ Research themes
    consultancy
    people
    contact
+   privacy
