@@ -10,17 +10,17 @@ Emīls Brazovskis
 Biography
 ---------
 
-Emils is a PhD student coming from the WANSS CDT on marine energy, following an MEng in Civil Engineering at the University of Edinburgh.
+Emils is a PhD student with the WAMESS CDT, holding an MEng in Civil Engineering from The University of Edinburgh, and has been working with coastal ocean modelling since 2019.
 
 Research interests
 ------------------
 
-Add the main research themes, methods and applications.
+ Regional scale impacts of tidal arrays, uncertainty quantification, application of adjoint-based optimisation to coastal ocean modelling problems.
 
 Current research
 ----------------
 
-Add the current research project, question or focus.
+Development of adjoint based optimisation methods for studying interactions between tidal arrays and novel methods of data assimilation for improved model accuracy.
 
 Selected work
 -------------

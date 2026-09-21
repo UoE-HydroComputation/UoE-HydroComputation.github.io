@@ -10,7 +10,7 @@ Michalis Constantas
 Biography
 ---------
 
-Michalis is a an EngD researcher from IDCORE on offshore renewable energy, following an MEng Mechanical Engineering degree at the University of Glasgow. As part of the industrial aspect of IDCORE, Michalis works with Proteus Marine Renewables to ensure the project's outcomes align with current industry needs.
+Michalis is an EngD researcher from the IDCORE CDT on offshore renewable energy, following an MEng Mechanical Engineering degree at the University of Glasgow. As part of the industrial aspect of IDCORE, Michalis works with Proteus Marine Renewables to ensure the project's outcomes align with current industry needs.
 
 Research interests
 ------------------
