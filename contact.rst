@@ -1,7 +1,7 @@
 Contact
 =======
 
-Use the form below for an initial research, collaboration or consultancy enquiry. We request only the information needed to understand the enquiry and reply.
+Use the form below to contact E-COM about an initial research, collaboration or consultancy enquiry. We request only the information needed to understand the enquiry and reply.
 
 .. raw:: html
 
@@ -10,7 +10,7 @@ Use the form below for an initial research, collaboration or consultancy enquiry
      Formspree. Recipients are configured in the Formspree dashboard, not here.
    -->
    <form class="contact-form" action="https://formspree.io/f/xvkgpzkl" method="POST">
-     <input type="hidden" name="_subject" value="[HydroComputation-Enquiry] New website enquiry">
+     <input type="hidden" name="_subject" value="[E-COM-Enquiry] New website enquiry">
      <input type="hidden" name="_next" value="https://uoe-hydrocomputation.github.io/thanks.html">
      <input class="form-trap" type="text" name="_gotcha" tabindex="-1" autocomplete="off" aria-hidden="true">
 

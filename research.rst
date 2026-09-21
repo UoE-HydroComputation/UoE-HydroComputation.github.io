@@ -22,14 +22,14 @@ Focus areas
 Publications
 ------------
 
-Browse the group’s research outputs, including journal papers, conference proceedings and book chapters.
+Browse E-COM’s research outputs, including journal papers, conference proceedings and book chapters.
 
 `Browse the group’s publications → <publications.html>`_
 
 Selected projects
 -----------------
 
-The following projects illustrate the group’s work across digital twins, open modelling workflows and marine-energy decision support.
+The following projects illustrate our work across digital twins, open modelling workflows and marine energy decision support.
 
 .. raw:: html
 

@@ -13,8 +13,8 @@ How we can help?
 .. raw:: html
 
    <div class="list-grid">
-     <div><h3>Modelling studies</h3><p>Design and delivery of hydrodynamic, transport and water-quality simulations for coastal, marine and hydraulic systems.</p></div>
-     <div><h3>Technical review</h3><p>Independent review of modelling methods, assumptions, calibration, uncertainty and interpretation.</p></div>
+     <div><h3>Modelling studies</h3><p>Design, delivery of hydrodynamic, transport and water-quality simulations for coastal, marine and hydraulic systems.</p></div>
+     <div><h3>Technical review</h3><p>Independent review and auditing of modelling methods, assumptions, calibration, uncertainties and interpretation.</p></div>
      <div><h3>Decision support</h3><p>Comparative assessment of engineering options, operational strategies and environmental trade-offs.</p></div>
      <div><h3>Capability building</h3><p>Collaborative method development, training and reproducible workflows for in-house teams.</p></div>
    </div>
@@ -28,7 +28,7 @@ Recent projects
      <article class="card"><p class="card-kicker">Tidal-stream energy</p><h3>MeyGen array design</h3><p>Hydrodynamic modelling and design support for the layout and performance of a tidal-stream turbine array in the Pentland Firth.</p></article>
      <article class="card"><p class="card-kicker">Electricity infrastructure</p><h3>SSEN–Hoy Orkney interconnector</h3><p>Hydro-environmental modelling and technical input supporting the proposed electricity interconnector between Hoy and mainland Orkney.</p></article>
      <article class="card"><p class="card-kicker">Environmental assessment</p><h3>Marine-energy sites</h3><p>Environmental impact assessments for tidal-stream developments at sites of approximately 200 MW, 140 MW and 50 MW capacity.</p></article>
-     <article class="card"><p class="card-kicker">Marine spatial planning</p><h3>Tidal-site leasing roadmaps</h3><p>Roadmapping exercises to help identify the evidence, modelling and decisions needed to support leasing of tidal-energy sites.</p></article>
+     <article class="card"><p class="card-kicker">Marine spatial planning</p><h3>Tidal-site leasing roadmaps</h3><p>Roadmapping exercises to help identify the evidence, modelling and strategy needed to support leasing of tidal energy sites.</p></article>
    </div>
 
 Organisations we have worked with
@@ -67,3 +67,14 @@ An initial conversation normally establishes the decision context, available dat
 .. raw:: html
 
    <section class="feature"><h2>Start with the question, not the model.</h2><p>Describe the system, decision and deadline. We can then advise whether existing evidence is sufficient, what a modelling study could resolve, and the proportionate next step.</p><p><a href="contact.html">Discuss a potential collaboration →</a></p></section>
+
+.. raw:: html
+
+   <aside class="edinburgh-innovations-partner" aria-label="Edinburgh Innovations partnership">
+     <a class="edinburgh-innovations-partner__logo" href="https://edinburgh-innovations.ed.ac.uk/" target="_blank" rel="noopener"><img src="https://edinburgh-innovations.ed.ac.uk/assets/img/logo/EI.png?v=1" alt="Edinburgh Innovations"></a>
+     <div>
+       <p class="section-kicker">The University of Edinburgh’s commercialisation service</p>
+       <p>We closely work with Edinburgh Innovations. It connects partners with the University’s expertise and provides the route for consultancy and collaborative research.</p>
+       <p><a href="https://edinburgh-innovations.ed.ac.uk/" target="_blank" rel="noopener">Explore collaboration with Edinburgh Innovations →</a></p>
+     </div>
+   </aside>

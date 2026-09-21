@@ -1,10 +1,10 @@
-Edinburgh Hydro-computation Group
-=================================
+E-COM — Edinburgh Coastal Ocean Modelling Group
+================================================
 
 .. raw:: html
 
    <section class="hero">
-     <p class="eyebrow">School of Engineering · University of Edinburgh</p>
+     <p class="eyebrow">E-COM · School of Engineering · University of Edinburgh</p>
      <h1>Computing for water, coasts and clean energy.</h1>
      <p class="lead">We develop and apply numerical models to understand environmental flows, support resilient infrastructure and enable responsible marine-energy development.</p>
      <div class="hero-actions">
@@ -18,7 +18,7 @@ Edinburgh Hydro-computation Group
 
    <p class="section-kicker">About the group</p>
 
-We bring together fluid mechanics, numerical modelling and data-driven methods for practical hydro-environmental challenges. Our work spans fundamental research, open computational tools and collaborative projects with industry, government and communities.
+The Edinburgh Coastal Ocean Modelling (E-COM) group  brings together fluid mechanics, numerical modelling and data-driven methods for practical hydro-environmental challenges. Our work spans fundamental research, open computational tools and collaborative projects with industry, government and communities.
 
 .. raw:: html
 
@@ -28,11 +28,11 @@ We bring together fluid mechanics, numerical modelling and data-driven methods f
        <p>We investigate coastal, estuarine and fluvial processes, including mixing, transport and the effects of engineered interventions.</p>
      </article>
      <article class="card">
-       <h3>Marine renewable energy</h3>
-       <p>We assess resource, performance and environmental interactions to help tidal-energy technologies develop responsibly.</p>
+       <h3>Ocean renewable energy</h3>
+       <p>We assess resource, performance and environmental interactions to help marine and offshore technologies develop responsibly.</p>
      </article>
      <article class="card">
-       <h3>Open hydro-computation</h3>
+       <h3>Open computing solutions</h3>
        <p>We build transparent, reproducible modelling workflows that connect scientific methods with decisions in the real world.</p>
      </article>
    </div>
@@ -42,7 +42,7 @@ We bring together fluid mechanics, numerical modelling and data-driven methods f
    <section class="feature">
      <p class="section-kicker">Research and consultancy</p>
      <h2>Rigorous methods, useful answers.</h2>
-     <p>Our work is designed to be scientifically robust and decision-relevant. We partner with organisations that need to analyse flow systems, test interventions, develop modelling capability or interpret complex hydro-environmental evidence.</p>
+     <p>Our work is designed to be scientifically robust and decision-relevant. We partner with organisations that need to analyse flow systems, test interventions, develop modelling capability or interpret complex hydro-environmental issues.</p>
      <p><a href="consultancy.html">Read about our consultancy approach →</a></p>
    </section>
 
