@@ -20,13 +20,48 @@ Researchers
 
 .. raw:: html
 
-   <div class="cards">
-     <article class="card"><img class="person-photo person-photo--connor" src="_static/media/connor.png" alt="Portrait of Connor Jordan" style="width: 200px; height: auto;><h3><a href="profiles/connor-jordan.html">Connor Jordan</a></h3><p><strong>PhD Student &amp; Industry Engagement Lead</strong><br><span class="card-meta">Group member since October 2022</span><br>Connor supports external engagement alongside doctoral research.</p></article>
-     <article class="card"><img class="person-photo" src="_static/media/Emils.png" alt="Portrait of Emīls Brazovskis" style="width: 200px; height: auto;><h3><a href="profiles/emils-brazovskis.html">Emīls Brazovskis</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">Group member since October 2023</span><br>Research in uncertainty quantification in coastal ocean models.</p></article>
-     <article class="card"><img class="person-photo" src="_static/media/bryn.jpg" alt="Portrait of Bryn Townley" style="width: 200px; height: auto;><h3><a href="profiles/bryn-townley.html">Bryn Townley</a></h3><p><strong>EngD student and Engineer @ Frazer Nash</strong><br><span class="card-meta">Group member since September 2022</span><br>Engineering and computational fluid dynamics.</p></article>
-     article class="card"><img class="person-photo" src="_static/media/michalis.jpeg" alt="Portrait of Michalis Constantas" style="width: 200px; height: auto;><h3><a href="profiles/michalis-constantas.html">Michalis Constantas</a></h3><p><strong>EngD Researcher with Proteus Marine Renewables</strong><br><span class="card-meta">Group member since September 2025</span><br>Research on array optimisation.</p></article>
-     <article class="card"><img class="person-photo" src="_static/media/alex.jpeg" alt="Portrait of Alexandra Dukic" style="width: 200px; height: auto;><h3><a href="profiles/alexandra-dukic.html">Alexandra Dukic</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">Group member since September 2026</span><br>Research on downscaling of regional ocean models.</p></article>
-   </div>
+<div class="cards">
+  <article class="card">
+    <img class="person-photo person-photo--connor" src="_static/media/connor.png" alt="Portrait of Connor Jordan" style="width: 200px; height: auto;">
+    <h3><a href="profiles/connor-jordan.html">Connor Jordan</a></h3>
+    <p><strong>PhD Student &amp; Industry Engagement Lead</strong><br>
+    <span class="card-meta">Group member since October 2022</span><br>
+    Connor supports external engagement alongside doctoral research.</p>
+  </article>
+
+  <article class="card">
+    <img class="person-photo" src="_static/media/Emils.png" alt="Portrait of Emīls Brazovskis" style="width: 200px; height: auto;">
+    <h3><a href="profiles/emils-brazovskis.html">Emīls Brazovskis</a></h3>
+    <p><strong>PhD Researcher</strong><br>
+    <span class="card-meta">Group member since October 2023</span><br>
+    Research in uncertainty quantification in coastal ocean models.</p>
+  </article>
+
+  <article class="card">
+    <img class="person-photo" src="_static/media/bryn.jpg" alt="Portrait of Bryn Townley" style="width: 200px; height: auto;">
+    <h3><a href="profiles/bryn-townley.html">Bryn Townley</a></h3>
+    <p><strong>EngD student and Engineer @ Frazer Nash</strong><br>
+    <span class="card-meta">Group member since September 2022</span><br>
+    Engineering and computational fluid dynamics.</p>
+  </article>
+
+  <article class="card">
+    <img class="person-photo" src="_static/media/michalis.jpeg" alt="Portrait of Michalis Constantas" style="width: 200px; height: auto;">
+    <h3><a href="profiles/michalis-constantas.html">Michalis Constantas</a></h3>
+    <p><strong>EngD Researcher with Proteus Marine Renewables</strong><br>
+    <span class="card-meta">Group member since September 2025</span><br>
+    Research on array optimisation.</p>
+  </article>
+
+  <article class="card">
+    <img class="person-photo" src="_static/media/alex.jpeg" alt="Portrait of Alexandra Dukic" style="width: 200px; height: auto;">
+    <h3><a href="profiles/alexandra-dukic.html">Alexandra Dukic</a></h3>
+    <p><strong>PhD Researcher</strong><br>
+    <span class="card-meta">Group member since September 2026</span><br>
+    Research on downscaling of regional ocean models.</p>
+  </article>
+</div>
+
 
 Alumni
 ------
