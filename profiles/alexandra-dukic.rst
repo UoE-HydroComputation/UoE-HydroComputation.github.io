@@ -20,11 +20,6 @@ Current research
 
 Current research focuses on reducing uncertainty in regional ocean model predictions and improving our understanding of coastal and marine environments under a changing climate.
 
-Selected work
--------------
-
-Add selected projects, publications, software or other relevant outputs.
-
 Profiles
 --------
 
