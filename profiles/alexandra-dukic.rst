@@ -5,7 +5,8 @@ Alexandra Dukic
 
    <p class="page-intro">PhD Researcher · Group member since September 2026</p>
 
-   <img class="profile-photo" src="../_static/media/alex.jpeg" alt="Portrait of Alexandra Dukic">
+   <img class="profile-photo" src="../_static/media/alex.jpeg" alt="Portrait of Alexandra Dukic" style="width: 200px; height: auto;>
+
 
 Biography
 ---------
