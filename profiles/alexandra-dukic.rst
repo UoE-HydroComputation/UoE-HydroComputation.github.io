@@ -8,7 +8,7 @@ Alexandra Dukic
 Biography
 ---------
 
-Alexandra Dukic is a PhD researcher in Dynamic Downscaling for Regional Ocean Model Processes, following the completion of an MEng in Civil and Coastal Engineering at the University of Plymouth.
+Alexandra is a PhD researcher in Dynamic Downscaling for Regional Ocean Model Processes, following the completion of an MEng in Civil and Coastal Engineering at the University of Plymouth.
 
 Research interests
 ------------------

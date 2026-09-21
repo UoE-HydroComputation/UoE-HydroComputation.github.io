@@ -10,22 +10,18 @@ Michalis Constantas
 Biography
 ---------
 
-Add a short biography, including Michalis’ background and current role in the group.
+Michalis is a an EngD researcher from IDCORE on offshore renewable energy, following an MEng Mechanical Engineering degree at the University of Glasgow. As part of the industrial aspect of IDCORE, Michalis works with Proteus Marine Renewables to ensure the project's outcomes align with current industry needs.
 
 Research interests
 ------------------
 
-Add the main research themes, methods and applications.
+Michalis's project explores the impact of tidal turbine rotor and foundation design on wake and array yield.
 
 Current research
 ----------------
 
-Add the current research project, question or focus.
+Current research involves developing tidal turbine characterization in Thetis, a shallow water equation coastal ocean model.
 
-Selected work
--------------
-
-Add selected projects, publications, software or other relevant outputs.
 
 Profiles
 --------

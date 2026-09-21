@@ -10,7 +10,7 @@ Bryn Townley
 Biography
 ---------
 
-Bryn Townley is undertaking an EngD in Offshore Renewable Energy at The University of Edinburgh as part of the EPSRC and NERC funded Industrial CDT (IDCORE). This is following a Bsc and in Mechanical Engineering at Swansea University, where he focused on tidal energy platforms and computational fluid dynamics (CFD). In addition to his doctoral studies, he worked as a Research Assistant at Crossflow Energy and as a Research Engineer at HydroWing Ltd.
+Bryn is undertaking an EngD in Offshore Renewable Energy at The University of Edinburgh as part of the EPSRC and NERC funded Industrial CDT (IDCORE). This is following a Bsc and in Mechanical Engineering at Swansea University, where he focused on tidal energy platforms and computational fluid dynamics (CFD). In addition to his doctoral studies, he worked as a Research Assistant at Crossflow Energy and as a Research Engineer at HydroWing Ltd.
 
 Research interests
 ------------------
