@@ -25,7 +25,13 @@ Development of adjoint based optimisation methods for studying interactions betw
 Selected work
 -------------
 
-Brazovskis, E., Angeloudis, A., & Beevers, L. (2025). Sensitivity Analysis of Tidal Stream Resource Using Multi-Scale Channel Network Models. In A. Wing-Keung Law, & J. W. Er (Eds.), Book of Extended Abstracts of the 41st IAHR World Congress, 2025 (pp. 1733-1736). (Proceedings of the IAHR World Congress). International Association for Hydro-Environment Engineering and Research (IAHR). https://www.iahr.org/library/infor?pid=37666
+Brazovskis, E., Angeloudis, A., & Beevers, L. (2025). 
+Sensitivity Analysis of Tidal Stream Resource Using Multi-Scale Channel Network Models. 
+In A. Wing-Keung Law, & J. W. Er (Eds.), 
+Book of Extended Abstracts of the 41st IAHR World Congress, 2025 (pp. 1733-1736). 
+(Proceedings of the IAHR World Congress). 
+International Association for Hydro-Environment Engineering and Research (IAHR). 
+https://www.iahr.org/library/infor?pid=37666
 
 Profiles
 --------

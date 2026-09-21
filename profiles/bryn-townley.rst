@@ -33,7 +33,6 @@ Volume 363, Part 1,
 125873,
 ISSN 0029-8018,
 https://doi.org/10.1016/j.oceaneng.2026.125873.
-(https://www.sciencedirect.com/science/article/pii/S0029801826017075)
 
 Profiles
 --------
