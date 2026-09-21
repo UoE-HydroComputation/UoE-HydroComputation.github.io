@@ -5,7 +5,7 @@ Bryn Townley
 
    <p class="page-intro">Engineer @ Frazer Nash · Group member since September 2022</p>
 
-   <img class="profile-photo" src="../_static/media/bryn.jpg" alt="Portrait of Bryn Townley">
+   <img class="profile-photo" src="../_static/media/bryn.jpg" alt="Portrait of Bryn Townley" style="width: 200px; height: auto;>
 
 Biography
 ---------

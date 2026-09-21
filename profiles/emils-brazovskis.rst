@@ -5,7 +5,7 @@ Emīls Brazovskis
 
    <p class="page-intro">PhD Researcher · Group member since October 2023</p>
 
-   <img class="profile-photo" src="../_static/media/Emils.png" alt="Portrait of Emīls Brazovskis">
+   <img class="profile-photo" src="../_static/media/Emils.png" alt="Portrait of Emīls Brazovskis" style="width: 200px; height: auto;>
 
 Biography
 ---------

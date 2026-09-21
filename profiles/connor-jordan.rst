@@ -5,7 +5,7 @@ Connor Jordan
 
    <p class="page-intro">PhD Student &amp; Industry Engagement Lead · Group member since October 2022</p>
 
-   <img class="profile-photo person-photo--connor" src="../_static/media/connor.png" alt="Portrait of Connor Jordan">
+   <img class="profile-photo person-photo--connor" src="../_static/media/connor.png" alt="Portrait of Connor Jordan" style="width: 200px; height: auto;>
 
 Connor is a PhD student in hydro-environmental engineering and the group’s Industry Engagement Lead. His research uses hydrodynamic coastal-ocean modelling to improve tidal-stream turbine array design and understand array-scale environmental effects.
 
