@@ -270,6 +270,7 @@ ul { padding-left: 1.2rem; }
 
 /* BibBase writes these classes at page load; the rules keep the live list
    consistent with the rest of the site without duplicating bibliography data. */
+.bibliography #bibbase_header { display: none; }
 .bibliography .bibbase_group { margin: 2.5rem 0; }
 .bibliography .bibbase_group_title {
   margin-bottom: .9rem;
