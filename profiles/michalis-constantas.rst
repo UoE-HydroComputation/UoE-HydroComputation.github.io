@@ -3,7 +3,7 @@ Michalis Constantas
 
 .. raw:: html
 
-   <p class="page-intro">PhD Researcher · Group member since September 2025</p>
+   <p class="page-intro">EngD Researcher with Proteus Marine Renewables · Group member since September 2025</p>
 
    <img class="profile-photo" src="../_static/media/michalis.jpeg" alt="Portrait of Michalis Constantas" style="width: 200px; height: auto;>
 

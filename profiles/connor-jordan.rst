@@ -22,6 +22,20 @@ Current research
 
 Connor is developing and applying methods for the optimisation and calibration of hydrodynamic models for tidal-stream energy, including array layout and operational modelling.
 
+Selected work
+-------------
+
+Jordan, C., & Angeloudis, A. (2026). 
+Assimilation of velocity data for tidal hydrodynamics model calibration. 
+Journal of Advances in Modeling Earth Systems, 18. 
+https://doi.org/10.1029/2025MS005399
+
+
+Jordan, C., Dundovic, D., Fragkou, A.K. et al. (2022)
+Combining shallow-water and analytical wake models for tidal array micro-siting.
+Journal of Ocean Engineering and Marine Energy 8, 193–215. 
+https://doi.org/10.1007/s40722-022-00225-2
+
 Profiles
 --------
 

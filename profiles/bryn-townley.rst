@@ -3,14 +3,14 @@ Bryn Townley
 
 .. raw:: html
 
-   <p class="page-intro">Engineer @ Frazer Nash · Group member since September 2022</p>
+   <p class="page-intro">EngD student and Engineer @ Frazer Nash · Group member since September 2022</p>
 
    <img class="profile-photo" src="../_static/media/bryn.jpg" alt="Portrait of Bryn Townley" style="width: 200px; height: auto;>
 
 Biography
 ---------
 
-Bryn is undertaking an EngD in Offshore Renewable Energy at The University of Edinburgh as part of the EPSRC and NERC funded Industrial CDT (IDCORE). This is following a Bsc and in Mechanical Engineering at Swansea University, where he focused on tidal energy platforms and computational fluid dynamics (CFD). In addition to his doctoral studies, he worked as a Research Assistant at Crossflow Energy and as a Research Engineer at HydroWing Ltd.
+Bryn is an EngD researcher from the IDCORE CDT on offshore renewable energy, following a BSc and MSc in Mechanical Engineering degree at the University of Swansea. As part of the industrial aspect of IDCORE, Bryn works with HydroWing Ltd to ensure the project's outcomes align with current industry needs.
 
 Research interests
 ------------------
