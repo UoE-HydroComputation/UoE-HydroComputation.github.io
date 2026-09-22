@@ -11,8 +11,19 @@ Principal Investigators & Staff
 .. raw:: html
 
    <div class="cards">
-     <article class="card"><img class="person-photo" src="_static/media/athanasios-angeloudis.jpg" alt="Portrait of Dr Athanasios Angeloudis" style="width: 200px; height: auto;><h3><a href="https://thangel.github.io/index.html">Dr Athanasios (Than) Angeloudis</a></h3><p><strong>Academic Lead</strong><br>Reader in Environmental Fluid Mechanics. Than provides the group’s academic and research leadership, including research collaborations, students and technical direction.</p></article>
-     <article class="card"><img class="person-photo" src="_static/media/tian-tan.png" alt="Portrait of Dr Tian Tan" style="width: 200px; height: auto;><span aria-hidden="true">TT</span></div><h3><a href="https://tiantan.xyz/">Dr Tian Tan</a></h3><p><strong>Research Associate</strong><br>Research in hydro-environmental modelling for tidal-stream energy.</p></article>
+     <article class="card">
+     <img class="person-photo" src="_static/media/athanasios-angeloudis.jpg" alt="Portrait of Dr Athanasios Angeloudis" style="width: 200px; height: auto";>
+     <h3><a href="https://thangel.github.io/index.html">Dr Athanasios (Than) Angeloudis</a></h3>
+     <p><strong>Academic Lead</strong><br>
+     Reader in Environmental Fluid Mechanics. Than provides the group’s academic and research leadership, including research collaborations, students and technical direction.</p>
+     </article>
+     
+     <article class="card">
+     <img class="person-photo" src="_static/media/tian-tan.png" alt="Portrait of Dr Tian Tan" style="width: 200px; height: auto";>
+     <h3><a href="https://tiantan.xyz/">Dr Tian Tan</a></h3>
+     <p><strong>Research Associate</strong><br>
+     Research in hydro-environmental modelling for tidal-stream energy.</p>
+     </article>
    </div>
 
 Researchers
