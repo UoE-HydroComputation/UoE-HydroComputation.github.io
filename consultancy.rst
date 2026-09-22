@@ -74,7 +74,7 @@ An initial conversation normally establishes the decision context, available dat
      <a class="edinburgh-innovations-partner__logo" href="https://edinburgh-innovations.ed.ac.uk/" target="_blank" rel="noopener"><img src="https://edinburgh-innovations.ed.ac.uk/assets/img/logo/EI.png?v=1" alt="Edinburgh Innovations"></a>
      <div>
        <p class="section-kicker">The University of Edinburgh’s commercialisation service</p>
-       <p>We closely work with Edinburgh Innovations. It connects partners with the University’s expertise and provides the route for consultancy and collaborative research.</p>
+       <p>Subject to individual project needs, we closely work with Edinburgh Innovations. It connects partners with the University’s expertise and provides the route for consultancy and collaborative research.</p>
        <p><a href="https://edinburgh-innovations.ed.ac.uk/" target="_blank" rel="noopener">Explore collaboration with Edinburgh Innovations →</a></p>
      </div>
    </aside>

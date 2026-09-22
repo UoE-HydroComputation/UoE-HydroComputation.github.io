@@ -4,14 +4,17 @@ E-COM — Edinburgh Coastal Ocean Modelling Group
 .. raw:: html
 
    <section class="hero">
-     <p class="eyebrow">E-COM · School of Engineering · University of Edinburgh</p>
-     <h1>Computing for water, coasts and clean energy.</h1>
-     <p class="lead">We develop and apply numerical models to understand environmental flows, support resilient infrastructure and enable responsible marine-energy development.</p>
-     <div class="hero-actions">
-       <a class="button" href="research.html">Explore our research</a>
-       <a class="button button--quiet" href="consultancy.html">Consultancy &amp; collaboration</a>
-       <a class="button button--quiet" href="people.html#opportunities">Opportunities</a>
+     <div class="hero__content">
+       <p class="eyebrow">E-COM · School of Engineering · University of Edinburgh</p>
+       <h1>Computing for water, coasts and clean energy.</h1>
+       <p class="lead">We develop and apply numerical models to understand environmental flows, support resilient infrastructure and enable responsible marine-energy development.</p>
+       <div class="hero-actions">
+         <a class="button" href="research.html">Explore our research</a>
+         <a class="button button--quiet" href="consultancy.html">Consultancy &amp; collaboration</a>
+         <a class="button button--quiet" href="people.html#opportunities">Opportunities</a>
+       </div>
      </div>
+     <div class="hero__logo-wrap"><img class="hero__logo" src="_static/media/ecom-logo-mark.png" alt="E-COM — Edinburgh Coastal Ocean Modelling Group"></div>
    </section>
 
 .. raw:: html

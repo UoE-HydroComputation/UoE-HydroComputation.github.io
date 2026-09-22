@@ -3,7 +3,10 @@ Research
 
 .. raw:: html
 
-   <p class="page-intro">We use computational fluid dynamics, coastal-ocean models and data analysis to investigate the movement of water and its consequences for people, ecosystems and infrastructure.</p>
+   <div class="page-intro-with-mark">
+     <p class="page-intro">We use computational fluid dynamics, coastal-ocean models and data analysis to investigate the movement of water and its consequences for people, ecosystems and infrastructure.</p>
+     <a class="school-mark" href="https://eng.ed.ac.uk/" target="_blank" rel="noopener"><img src="_static/media/university-of-edinburgh-school-of-engineering.png" alt="The University of Edinburgh School of Engineering"></a>
+   </div>
 
 Our research sits at the intersection of environmental fluid mechanics and computational engineering. We develop methods, validate them against observations where possible, and apply them to questions where better understanding of flow can improve a decision.
 
