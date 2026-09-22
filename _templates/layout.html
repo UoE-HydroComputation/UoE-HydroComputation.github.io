@@ -3,15 +3,15 @@
 {% block extrahead %}
   {{ super() }}
   <meta name="theme-color" content="#0065bd">
-  <meta name="description" content="Research and consultancy in environmental fluid mechanics and hydro-computation at the University of Edinburgh.">
+  <meta name="description" content="E-COM — Edinburgh Coastal Ocean Modelling Group: research and consultancy in environmental fluid mechanics and coastal-ocean modelling at the University of Edinburgh.">
 {% endblock %}
 
 {% block relbar1 %}
 <header class="site-header">
   <div class="site-header__inner">
-    <a class="wordmark" href="{{ pathto('index') }}" aria-label="Edinburgh Hydro-computation Group home">
-      <span class="wordmark__mark" aria-hidden="true">EH</span>
-      <span><strong>Edinburgh Hydro-computation Group</strong><small>University of Edinburgh</small></span>
+    <a class="wordmark" href="{{ pathto('index') }}" aria-label="E-COM — Edinburgh Coastal Ocean Modelling Group home">
+      <img class="wordmark__logo" src="{{ pathto('_static/media/ecom-logo-mark.png', 1) }}" alt="" aria-hidden="true">
+      <span><strong>E-COM</strong><small>Edinburgh Coastal Ocean Modelling Group · University of Edinburgh</small></span>
     </a>
     <nav class="site-nav" aria-label="Primary navigation">
       <a href="{{ pathto('research') }}">Research</a>
@@ -34,7 +34,7 @@
 {% block footer %}
 <footer class="site-footer">
   <div>
-    <strong>Edinburgh Hydro-computation Group</strong><br>
+    <strong>E-COM — Edinburgh Coastal Ocean Modelling Group</strong><br>
     School of Engineering · University of Edinburgh
   </div>
   <div>

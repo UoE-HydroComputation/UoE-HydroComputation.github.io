@@ -1,4 +1,4 @@
-# Edinburgh Hydro-computation Group website
+# E-COM — Edinburgh Coastal Ocean Modelling Group website
 
 A small, static Sphinx site for the group’s GitHub Pages repository. It is a deliberately focused starting point: a landing page, research overview, consultancy route, people page and contact details.
 
@@ -23,7 +23,7 @@ The editable, group-owned publication record is [`Publications.bib`](Publication
 1. Replace every bracketed placeholder in `people.rst` and `contact.rst` with verified details.
 2. Replace the three example project cards in `research.rst` with a short, current selection.
 3. Configure the enquiry form, as described below.
-4. Confirm the group’s agreed name, remit, logo and University affiliation wording.
+4. Confirm the E-COM remit, logo and University affiliation wording.
 5. Check the consultancy copy through the University’s relevant contracts or business-development route before making claims about services or terms.
 6. In GitHub, set **Settings → Pages → Build and deployment → Source** to **GitHub Actions**.
 
@@ -34,7 +34,7 @@ The native-styled form in `contact.rst` uses [Formspree](https://formspree.io/) 
 1. Create a Formspree account using the group’s agreed owner account, then create a new form.
 2. In Formspree, add `a.angeloudis@ed.ac.uk` and `c.jordan@ed.ac.uk` as notification recipients. Confirm both addresses through the verification emails. If the selected Formspree plan only permits one recipient, use an approved University shared mailbox or distribution list as that recipient instead.
 3. Copy the form endpoint ID—for example, `xabcdeyz` from `https://formspree.io/f/xabcdeyz`—into the `action` value in `contact.rst`, replacing `REPLACE_WITH_FORMSPREE_FORM_ID`.
-4. Submit a test using the live Pages site. The notification subject is set in the form as `[HydroComputation-Enquiry] New website enquiry`; retain that prefix for consistent filtering.
+4. Submit a test using the live Pages site. The notification subject is set in the form as `[E-COM-Enquiry] New website enquiry`; retain that prefix for consistent filtering.
 5. Confirm with the appropriate University team that Formspree is an acceptable processor for basic contact information. The form deliberately asks for minimal personal data and warns users not to send sensitive or confidential material.
 
 ## Deployment

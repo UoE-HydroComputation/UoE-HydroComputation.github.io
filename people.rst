@@ -3,7 +3,7 @@ People
 
 .. raw:: html
 
-   <p class="page-intro">The group brings together researchers, students and collaborators working on computational approaches to hydro-environmental engineering.</p>
+   <p class="page-intro">E-COM brings together researchers, students and collaborators working on computational approaches to hydro-environmental engineering.</p>
 
 Principal Investigators & Staff
 -------------------------------
@@ -11,8 +11,8 @@ Principal Investigators & Staff
 .. raw:: html
 
    <div class="cards">
-     <article class="card"><h3><a href="https://thangel.github.io/index.html">Dr Athanasios (Than) Angeloudis</a></h3><p><strong>Academic Lead</strong><br>Reader in Environmental Fluid Mechanics. Than provides the group’s academic and research leadership, including research collaborations, students and technical direction.</p></article>
-     <article class="card"><h3><a href="https://tiantan.xyz/">Dr Tian Tan</a></h3><p><strong>Research Associate</strong><br>Research in hydro-environmental modelling for tidal-stream energy.</p></article>
+     <article class="card"><img class="person-photo" src="_static/media/athanasios-angeloudis.jpg" alt="Portrait of Dr Athanasios Angeloudis"><h3><a href="https://thangel.github.io/index.html">Dr Athanasios (Than) Angeloudis</a></h3><p><strong>Academic Lead</strong><br>Reader in Environmental Fluid Mechanics. Than provides the group’s academic and research leadership, including research collaborations, students and technical direction.</p></article>
+     <article class="card"><div class="person-photo person-photo--placeholder" role="img" aria-label="Profile image placeholder for Dr Tian Tan"><span aria-hidden="true">TT</span></div><h3><a href="https://tiantan.xyz/">Dr Tian Tan</a></h3><p><strong>Research Associate</strong><br>Research in hydro-environmental modelling for tidal-stream energy.</p></article>
    </div>
 
 Researchers
@@ -62,19 +62,24 @@ Researchers
    </div>
    
 
-Alumni
-------
+.. raw:: html
 
-Our alumni have contributed to research across marine renewable energy, environmental fluid mechanics and computational engineering.
-
-- Dr N Chien — Postdoctoral researcher in Ocean Digital Twins, University of Edinburgh (2023–2025).
-- Dr Y Chen — Postdoctoral researcher in Tidal Stream Energy, University of Edinburgh (2024–2025).
-- Dr C Old — Postdoctoral researcher in Marine Energy, University of Edinburgh (2022–2023).
-- Dr P Hudson — PhD Researcher, University of Edinburgh (2020–2025).
-- Dr K Pappas — PhD Researcher, University of Edinburgh (2021–2025).
-- Dr M Patel — DPhil Researcher, University of Oxford (2020–2024).
-- Dr A Fragkou — PhD Researcher, University of Edinburgh (2019–2023).
-- Dr L Mackie — PhD Researcher, Imperial College London (2018–2021).
+   <details class="alumni-dropdown">
+     <summary>Alumni</summary>
+     <div class="alumni-dropdown__content">
+       <p>Our alumni have contributed to research across marine renewable energy, environmental fluid mechanics and computational engineering.</p>
+       <ul>
+         <li>Dr N Chien — Postdoctoral researcher in Ocean Digital Twins, University of Edinburgh (2023–2025).</li>
+         <li>Dr Y Chen — Postdoctoral researcher in Tidal Stream Energy, University of Edinburgh (2024–2025).</li>
+         <li>Dr C Old — Postdoctoral researcher in Marine Energy, University of Edinburgh (2022–2023).</li>
+         <li>Dr P Hudson — PhD Researcher, University of Edinburgh (2020–2025).</li>
+         <li>Dr K Pappas — PhD Researcher, University of Edinburgh (2021–2025).</li>
+         <li>Dr M Patel — DPhil Researcher, University of Oxford (2020–2024).</li>
+         <li>Dr A Fragkou — PhD Researcher, University of Edinburgh (2019–2023).</li>
+         <li>Dr L Mackie — PhD Researcher, Imperial College London (2018–2021).</li>
+       </ul>
+     </div>
+   </details>
 
 
 .. 
