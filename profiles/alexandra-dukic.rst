@@ -5,25 +5,23 @@ Alexandra Dukic
 
    <p class="page-intro">PhD Researcher · Group member since September 2026</p>
 
+   <img class="profile-photo" src="../_static/media/alex.jpeg" alt="Portrait of Alexandra Dukic" style="width: 200px; height: auto;>
+
+
 Biography
 ---------
 
-Add a short biography, including Alexandra’s background and current role in the group.
+Alexandra is a PhD researcher in Dynamic Downscaling for Regional Ocean Model Processes, following the completion of an MEng in Civil and Coastal Engineering at the University of Plymouth.
 
 Research interests
 ------------------
 
-Add the main research themes, methods and applications.
+Through an EPSRC supported scholarship, Alexandra investigates how ocean processes can be better represented using advanced computational methods to enhance our understanding of the marine environment.  As part of the EU-INTERCHANGE project, she collaborates with international partners to develop regional ocean models that support applications such as offshore renewable energy, aquaculture, and climate change adaptation.
 
 Current research
 ----------------
 
-Add the current research project, question or focus.
-
-Selected work
--------------
-
-Add selected projects, publications, software or other relevant outputs.
+Current research focuses on reducing uncertainty in regional ocean model predictions and improving our understanding of coastal and marine environments under a changing climate.
 
 Profiles
 --------

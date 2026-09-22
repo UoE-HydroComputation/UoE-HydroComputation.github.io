@@ -11,8 +11,19 @@ Principal Investigators & Staff
 .. raw:: html
 
    <div class="cards">
-     <article class="card"><img class="person-photo" src="_static/media/athanasios-angeloudis.jpg" alt="Portrait of Dr Athanasios Angeloudis"><h3><a href="https://thangel.github.io/index.html">Dr Athanasios (Than) Angeloudis</a></h3><p><strong>Academic Lead</strong><br>Reader in Environmental Fluid Mechanics. Than provides the group’s academic and research leadership, including research collaborations, students and technical direction.</p></article>
-     <article class="card"><div class="person-photo person-photo--placeholder" role="img" aria-label="Profile image placeholder for Dr Tian Tan"><span aria-hidden="true">TT</span></div><h3><a href="https://tiantan.xyz/">Dr Tian Tan</a></h3><p><strong>Research Associate</strong><br>Research in hydro-environmental modelling for tidal-stream energy.</p></article>
+     <article class="card">
+     <img class="person-photo" src="_static/media/athanasios-angeloudis.jpg" alt="Portrait of Dr Athanasios Angeloudis" style="width: 200px; height: auto";>
+     <h3><a href="https://thangel.github.io/index.html">Dr Athanasios (Than) Angeloudis</a></h3>
+     <p><strong>Academic Lead</strong><br>
+     Reader in Environmental Fluid Mechanics. Than provides the group’s academic and research leadership, including research collaborations, students and technical direction.</p>
+     </article>
+     
+     <article class="card">
+     <img class="person-photo" src="_static/media/tian-tan.png" alt="Portrait of Dr Tian Tan" style="width: 200px; height: auto";>
+     <h3><a href="https://tiantan.xyz/">Dr Tian Tan</a></h3>
+     <p><strong>Research Associate</strong><br>
+     Research in hydro-environmental modelling for tidal-stream energy.</p>
+     </article>
    </div>
 
 Researchers
@@ -21,12 +32,46 @@ Researchers
 .. raw:: html
 
    <div class="cards">
-     <article class="card"><img class="person-photo person-photo--connor" src="_static/media/connor.png" alt="Portrait of Connor Jordan"><h3><a href="profiles/connor-jordan.html">Connor Jordan</a></h3><p><strong>PhD Student &amp; Industry Engagement Lead</strong><br><span class="card-meta">Group member since October 2022</span><br>Connor supports external engagement alongside doctoral research.</p></article>
-     <article class="card"><img class="person-photo" src="_static/media/emils.jpeg" alt="Portrait of Emīls Brazovskis"><h3><a href="profiles/emils-brazovskis.html">Emīls Brazovskis</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">Group member since October 2023</span><br>Research in uncertainty quantification in coastal ocean models.</p></article>
-     <article class="card"><img class="person-photo" src="_static/media/bryn.jpg" alt="Portrait of Bryn Townley"><h3><a href="profiles/bryn-townley.html">Bryn Townley</a></h3><p><strong>Engineer @ Frazer Nash</strong><br><span class="card-meta">Group member since September 2022</span><br>Engineering and computational fluid dynamics.</p></article>
-     <article class="card"><img class="person-photo" src="_static/media/michalis.jpeg" alt="Portrait of Michalis Constantas"><h3><a href="profiles/michalis-constantas.html">Michalis Constantas</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">Group member since September 2025</span><br>Research on array optimisation.</p></article>
-     <article class="card"><div class="person-photo person-photo--placeholder" role="img" aria-label="Profile image placeholder for Alexandra Dukic"><span aria-hidden="true">AD</span></div><h3><a href="profiles/alexandra-dukic.html">Alexandra Dukic</a></h3><p><strong>PhD Researcher</strong><br><span class="card-meta">Group member since September 2026</span><br>Research on downscaling of regional ocean models.</p></article>
+     <article class="card">
+     <img class="person-photo person-photo--connor" src="_static/media/connor.png" alt="Portrait of Connor Jordan" style="width: 200px; height: auto;">
+     <h3><a href="profiles/connor-jordan.html">Connor Jordan</a></h3>
+     <p><strong>PhD Student &amp; Industry Engagement Lead</strong><br>
+     <span class="card-meta">Group member since October 2022</span><br>
+     Connor supports external engagement alongside doctoral research.</p>
+     </article>
+     
+     <article class="card">
+     <img class="person-photo" src="_static/media/Emils.png" alt="Portrait of Emīls Brazovskis" style="width: 200px; height: auto;">
+     <h3><a href="profiles/emils-brazovskis.html">Emīls Brazovskis</a></h3>
+     <p><strong>PhD Researcher</strong><br>
+     <span class="card-meta">Group member since October 2023</span><br>
+     Research in uncertainty quantification in coastal ocean models.</p>
+     </article>
+     
+     <article class="card">
+     <img class="person-photo" src="_static/media/bryn.jpg" alt="Portrait of Bryn Townley" style="width: 200px; height: auto;">
+     <h3><a href="profiles/bryn-townley.html">Bryn Townley</a></h3>
+     <p><strong>EngD Researcher and Engineer @ Frazer Nash</strong><br>
+     <span class="card-meta">Group member since September 2022</span><br>
+     Engineering and computational fluid dynamics.</p>
+     </article>
+     
+     <article class="card">
+     <img class="person-photo" src="_static/media/michalis.jpeg" alt="Portrait of Michalis Constantas" style="width: 200px; height: auto;">
+     <h3><a href="profiles/michalis-constantas.html">Michalis Constantas</a></h3>
+     <p><strong>EngD Researcher with Proteus Marine Renewables</strong><br>
+     <span class="card-meta">Group member since September 2025</span><br>
+     Research on array optimisation.</p>
+     </article>
+     
+     <article class="card">
+     <img class="person-photo" src="_static/media/alex.jpeg" alt="Portrait of Alexandra Dukic" style="width: 200px; height: auto;">
+     <h3><a href="profiles/alexandra-dukic.html">Alexandra Dukic</a></h3>
+     <p><strong>PhD Researcher</strong><br><span class="card-meta">Group member since September 2026</span><br>
+     Research on downscaling of regional ocean models.</p>
+     </article>
    </div>
+   
 
 .. raw:: html
 
