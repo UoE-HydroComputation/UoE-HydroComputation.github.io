@@ -31,10 +31,7 @@ Journal of Advances in Modeling Earth Systems, 18.
 https://doi.org/10.1029/2025MS005399
 
 
-Jordan, C., Dundovic, D., Fragkou, A.K. et al. (2022)
-Combining shallow-water and analytical wake models for tidal array micro-siting.
-Journal of Ocean Engineering and Marine Energy 8, 193–215. 
-https://doi.org/10.1007/s40722-022-00225-2
+Jordan, C., & Angeloudis, A. (2025). Effects of bathymetric constraints in tidal stream array layout design. Journal of Hydraulic Research, 63(5), 622–639. https://doi.org/10.1080/00221686.2025.2554989
 
 Profiles
 --------
