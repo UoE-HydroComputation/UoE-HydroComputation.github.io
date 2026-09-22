@@ -51,7 +51,7 @@ Researchers
      <article class="card">
      <img class="person-photo" src="_static/media/bryn.jpg" alt="Portrait of Bryn Townley" style="width: 200px; height: auto;">
      <h3><a href="profiles/bryn-townley.html">Bryn Townley</a></h3>
-     <p><strong>EngD student and Engineer @ Frazer Nash</strong><br>
+     <p><strong>EngD Researcher and Engineer @ Frazer Nash</strong><br>
      <span class="card-meta">Group member since September 2022</span><br>
      Engineering and computational fluid dynamics.</p>
      </article>
