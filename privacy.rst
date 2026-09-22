@@ -1,7 +1,7 @@
 Privacy notice for enquiries
 ============================
 
-The University of Edinburgh, through the Edinburgh Hydro-computation Group, is the controller of the personal data submitted through this website's enquiry form.
+The University of Edinburgh, through E-COM — Edinburgh Coastal Ocean Modelling Group, is the controller of the personal data submitted through this website's enquiry form.
 
 What we collect and why
 -----------------------
@@ -11,7 +11,7 @@ The form collects your name, email address, organisation (if provided), enquiry 
 Who receives your information
 ------------------------------
 
-Formspree processes form submissions for us as a service provider. Authorised members of the Edinburgh Hydro-computation Group and University staff who need the information to respond may receive the submission. We do not use form submissions for marketing.
+Formspree processes form submissions for us as a service provider. Authorised E-COM members and University staff who need the information to respond may receive the submission. We do not use form submissions for marketing.
 
 How long we keep it
 -------------------
