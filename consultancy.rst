@@ -3,20 +3,20 @@ Consultancy and collaboration
 
 .. raw:: html
 
-   <p class="page-intro">We work with public bodies, consultancies, developers and research partners on hydro-environmental questions where credible modelling and careful interpretation matter.</p>
+   <p class="page-intro">We work with public bodies, consultancies, developers and researchers where credible modelling and careful interpretation matter.</p>
 
-The group can contribute independent technical expertise, bespoke analysis or collaborative research. The most useful engagements start with a well-framed decision: what needs to be understood, which options are in scope and what evidence would make a difference.
+.. The group can contribute independent technical expertise, bespoke analysis or collaborative research. The most useful engagements start with a well-framed decision: what needs to be understood, which options are in scope and what evidence would make a difference.
 
-How we can help?
+How can we help?
 ----------------
 
 .. raw:: html
 
    <div class="list-grid">
-     <div><h3>Modelling studies</h3><p>Design, delivery of hydrodynamic, transport and water-quality simulations for coastal, marine and hydraulic systems.</p></div>
-     <div><h3>Technical review</h3><p>Independent review and auditing of modelling methods, assumptions, calibration, uncertainties and interpretation.</p></div>
+     <div><h3>Modelling studies</h3><p>Hydrodynamic, transport and water-quality simulations for coastal systems.</p></div>
+     <div><h3>Technical review</h3><p>Review and auditing of modelling approaches and their interpretation.</p></div>
      <div><h3>Decision support</h3><p>Comparative assessment of engineering options, operational strategies and environmental trade-offs.</p></div>
-     <div><h3>Capability building</h3><p>Collaborative method development, training and reproducible workflows for in-house teams.</p></div>
+     <div><h3>Capability building</h3><p>Collaborative method, workflow and guidance development.</p></div>
    </div>
 
 Recent projects
@@ -25,10 +25,10 @@ Recent projects
 .. raw:: html
 
    <div class="cards consultancy-projects">
-     <article class="card"><p class="card-kicker">Tidal-stream energy</p><h3>MeyGen array design</h3><p>Hydrodynamic modelling and design support for the layout and performance of a tidal-stream turbine array in the Pentland Firth.</p></article>
+     <article class="card"><p class="card-kicker">Tidal-stream energy</p><h3>MeyGen array design</h3><p>Hydrodynamic modelling and design support for the layout and performance of a tidal stream turbine array in the Pentland Firth.</p></article>
      <article class="card"><p class="card-kicker">Electricity infrastructure</p><h3>SSEN–Hoy Orkney interconnector</h3><p>Hydro-environmental modelling and technical input supporting the proposed electricity interconnector between Hoy and mainland Orkney.</p></article>
-     <article class="card"><p class="card-kicker">Environmental assessment</p><h3>Marine-energy sites</h3><p>Environmental impact assessments for tidal-stream developments at sites of approximately 200 MW, 140 MW and 50 MW capacity.</p></article>
-     <article class="card"><p class="card-kicker">Marine spatial planning</p><h3>Tidal-site leasing roadmaps</h3><p>Roadmapping exercises to help identify the evidence, modelling and strategy needed to support leasing of tidal energy sites.</p></article>
+     <article class="card"><p class="card-kicker">Environmental assessment</p><h3>Marine-energy sites</h3><p>Environmental impact assessments for tidal stream developments at sites of approximately 200 MW, 140 MW and 50 MW capacity.</p></article>
+     <article class="card"><p class="card-kicker">Marine spatial planning</p><h3>Tidal-site leasing roadmaps</h3><p>Roadmapping exercises to help identify the data, modelling and strategy needed to support leasing of tidal energy sites.</p></article>
    </div>
 
 Organisations we have worked with
@@ -49,7 +49,7 @@ Our consultancy and applied research has included work with developers, infrastr
 Regions covered
 ---------------
 
-Much of our detailed modelling has focused on UK waters, but our work also reaches sites in Asia and North America. Even within a single region, relatively simple models can reveal a striking variety of flow phenomena, as these examples show.
+Much of our detailed modelling has focused on UK waters, but our work has also extended to sites in Asia and North America. Even within a single region, relatively simple models can reveal a striking variety of flow phenomena, as these examples show.
 
 .. raw:: html
 
@@ -62,11 +62,11 @@ Much of our detailed modelling has focused on UK waters, but our work also reach
 Working together
 ----------------
 
-An initial conversation normally establishes the decision context, available data, required timescale and appropriate route for collaboration. Depending on the work, this may lead to a short scoping exercise, a contract-research proposal, a student project or a larger research partnership.
+An initial conversation normally establishes the context, available data, and an appropriate way to work together. This may lead to a short scoping exercise, a contract or research proposal, a student project or a larger research partnership.
 
 .. raw:: html
 
-   <section class="feature"><h2>Start with the question, not the model.</h2><p>Describe the system, decision and deadline. We can then advise whether existing evidence is sufficient, what a modelling study could resolve, and the proportionate next step.</p><p><a href="contact.html">Discuss a potential collaboration →</a></p></section>
+   <section class="feature"><h2>Tell us about your project and aim</h2><p> We can then advise what a modelling study could resolve, and the appropriate next step.</p><p><a href="contact.html">Discuss a potential collaboration →</a></p></section>
 
 .. raw:: html
 
@@ -74,7 +74,7 @@ An initial conversation normally establishes the decision context, available dat
      <a class="edinburgh-innovations-partner__logo" href="https://edinburgh-innovations.ed.ac.uk/" target="_blank" rel="noopener"><img src="https://edinburgh-innovations.ed.ac.uk/assets/img/logo/EI.png?v=1" alt="Edinburgh Innovations"></a>
      <div>
        <p class="section-kicker">The University of Edinburgh’s commercialisation service</p>
-       <p>Subject to individual project needs, we closely work with Edinburgh Innovations. It connects partners with the University’s expertise and provides the route for consultancy and collaborative research.</p>
+       <p>Where appropriate, we work with Edinburgh Innovations. It connects partners with the University’s expertise and provides a route for consultancy and collaborative research.</p>
        <p><a href="https://edinburgh-innovations.ed.ac.uk/" target="_blank" rel="noopener">Explore collaboration with Edinburgh Innovations →</a></p>
      </div>
    </aside>
