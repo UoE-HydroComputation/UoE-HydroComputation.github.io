@@ -12,7 +12,11 @@ make html
 open _build/html/index.html
 ```
 
-The source files are plain reStructuredText. `index.rst` is the landing page; the other top-level `.rst` files map to the navigation.
+The source files are plain reStructuredText. `index.rst` is the landing page;
+the other top-level `.rst` files map to the navigation. The Orkney
+hydrodynamic case-study page is `orkney-case-study.rst`; generated model
+outputs remain outside the published site and are documented in
+[`case_study/README.md`](case_study/README.md).
 
 ## Publications
 

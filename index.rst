@@ -67,6 +67,17 @@ Research themes
    research
    publications
    consultancy
+   orkney-case-study
+   sites/deer-sound
+   sites/emec-shapinsay-sound
+   sites/emec-fall-of-warness
+   sites/westray-south
+   sites/meygen-inner-sound
+   sites/ness-of-duncansby
+   sites/emec-stronsay-firth
+   sites/lashy-sound
+   sites/brough-ness
+   sites/brims-tidal-array
    people
    contact
    privacy
