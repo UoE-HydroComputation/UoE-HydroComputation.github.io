@@ -182,6 +182,15 @@ ul { padding-left: 1.2rem; }
 .video-grid figure { margin: 0; background: var(--wash); }
 .video-grid video { display: block; width: 100%; aspect-ratio: 944 / 1180; background: #dfe3e5; object-fit: contain; }
 .video-grid figcaption { padding: .75rem 1rem .9rem; font-family: Georgia, 'Times New Roman', serif; font-size: 1.05rem; line-height: 1.2; }
+.site-profile-grid {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 1.1rem;
+  margin: 1.5rem 0 2.5rem;
+}
+.site-profile-grid figure { margin: 0; background: var(--wash); }
+.site-profile-grid img { display: block; width: 100%; height: auto; }
+.site-profile-grid figcaption { padding: .75rem 1rem .9rem; font-family: Georgia, 'Times New Roman', serif; font-size: .95rem; line-height: 1.35; }
 .project-logo { display: block; width: auto; max-width: 100%; height: 4rem; margin: 0 0 1.1rem; object-fit: contain; object-position: left center; }
 .project-logo--square { width: 4rem; }
 .software-logo { display: block; width: auto; max-width: 100%; height: 3.1rem; margin: 0 0 1.1rem; object-fit: contain; object-position: left center; }
@@ -238,6 +247,124 @@ ul { padding-left: 1.2rem; }
 .alumni-dropdown__content ul { margin-bottom: 0; }
 .notice { margin: 2rem 0; padding: 1.1rem 1.3rem; border-left: 4px solid #66727d; background: var(--wash); color: #39424a; font-size: .94rem; }
 .notice p { margin: 0; }
+.page--orkney-case-study div.body { max-width: none; padding: 0; }
+.case-study-map { position: relative; height: calc(100vh - 5.6rem); min-height: 34rem; overflow: hidden; background: #f5f6f6; }
+.case-study-map .leaflet-top,
+.case-study-map .leaflet-bottom { position: absolute; z-index: 1000; pointer-events: none; }
+.case-study-map .leaflet-top { top: 0; }
+.case-study-map .leaflet-bottom { bottom: 0; }
+.case-study-map .leaflet-right { right: 0; }
+.case-study-map .leaflet-left { left: 0; }
+.case-study-map .leaflet-control { clear: both; margin: .625rem; pointer-events: auto; }
+.case-study-colourbar { width: 15rem; padding: .65rem .75rem; border: 1px solid var(--line); background: rgba(255, 255, 255, .92); color: var(--ink); font: .78rem/1.35 Arial, Helvetica, sans-serif; }
+.case-study-colourbar strong { display: block; margin-bottom: .35rem; }
+.case-study-colourbar__gradient { height: .75rem; border: 1px solid rgba(0, 0, 0, .16); }
+.case-study-colourbar__limits { display: flex; justify-content: space-between; gap: 1rem; margin-top: .2rem; }
+.case-study-colourbar small { display: block; margin-top: .2rem; color: var(--muted); }
+.case-study-layer-menu {
+  width: 22rem;
+  max-width: calc(100vw - 2rem);
+  border: 1px solid var(--line);
+  border-radius: 0;
+  background: rgba(255, 255, 255, .96);
+  box-shadow: none;
+  color: var(--ink);
+  font: .82rem/1.35 Arial, Helvetica, sans-serif;
+}
+.case-study-site-menu { margin-top: .45rem; }
+.case-study-layer-menu details { padding: 0; }
+.case-study-layer-menu summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: .65rem .75rem;
+  cursor: pointer;
+  font-weight: bold;
+  list-style: none;
+}
+.case-study-layer-menu summary::-webkit-details-marker { display: none; }
+.case-study-layer-menu summary::after { color: var(--accent); content: '+'; font-size: 1.2rem; font-weight: normal; }
+.case-study-layer-menu details[open] summary { border-bottom: 1px solid var(--line); }
+.case-study-layer-menu details[open] summary::after { content: '−'; }
+.case-study-layer-menu__list {
+  max-height: min(60vh, 34rem);
+  overflow-y: auto;
+  padding: .45rem .75rem .55rem 1.5rem;
+}
+.case-study-layer-menu__model-info {
+  margin: 0;
+  padding: .55rem .75rem;
+  border-bottom: 1px solid var(--line);
+  color: var(--muted);
+  font-size: .75rem;
+  line-height: 1.35;
+}
+.leaflet-bar.case-study-layer-menu .case-study-layer-menu__model-info a {
+  float: none;
+  display: inline;
+  width: auto;
+  height: auto;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  color: var(--accent);
+  font-size: inherit;
+  line-height: inherit;
+  text-align: inherit;
+  text-decoration: underline;
+}
+.leaflet-bar.case-study-layer-menu .case-study-layer-menu__model-info a:hover,
+.leaflet-bar.case-study-layer-menu .case-study-layer-menu__model-info a:focus { color: var(--accent-dark); text-decoration: underline; }
+.case-study-layer-menu__group { border-bottom: 1px solid var(--line); }
+.case-study-layer-menu__group:last-child { border-bottom: 0; }
+.case-study-layer-menu__section { margin-left: .75rem; }
+.case-study-layer-menu__group summary { padding: .45rem 0; font-size: .78rem; }
+.case-study-layer-menu__group-list { padding: 0 0 .3rem; }
+.case-study-layer-menu__list label {
+  display: flex;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  gap: .45rem;
+  padding: .2rem 0;
+  cursor: pointer;
+}
+.case-study-layer-menu__list input { margin: .23rem 0 0; accent-color: var(--accent); }
+.case-study-layer-menu__list label > span:not(.case-study-layer-menu__description) { flex: 1 1 9rem; }
+.case-study-layer-menu__info {
+  display: grid;
+  place-items: center;
+  width: 1.15rem;
+  height: 1.15rem;
+  margin: .05rem 0 0;
+  padding: 0;
+  border: 1px solid var(--accent);
+  border-radius: 50%;
+  background: #fff;
+  color: var(--accent);
+  cursor: pointer;
+  font: bold .72rem/1 Georgia, 'Times New Roman', serif;
+}
+.case-study-layer-menu__info:hover,
+.case-study-layer-menu__info:focus { background: var(--accent); color: #fff; }
+.case-study-layer-menu__description {
+  flex-basis: 100%;
+  margin: .05rem 0 .3rem 1.35rem;
+  color: var(--muted);
+  cursor: default;
+  font-size: .75rem;
+  line-height: 1.35;
+}
+.tidal-site-popup {
+  display: grid;
+  grid-template-columns: minmax(5.5rem, max-content) minmax(0, 1fr);
+  gap: .25rem .9rem;
+  width: min(22rem, calc(100vw - 6rem));
+  margin: 0;
+}
+.tidal-site-popup dt { font-weight: bold; }
+.tidal-site-popup dd { margin: 0; overflow-wrap: anywhere; }
+.tidal-site-popup__link { white-space: nowrap; }
 .page-intro { margin-bottom: 2.5rem; color: var(--muted); font-size: 1.16rem; }
 .page-intro-with-mark {
   display: grid;
@@ -323,6 +450,6 @@ ul { padding-left: 1.2rem; }
   .site-nav { justify-content: flex-start; gap: .65rem 1rem; }
   .hero { grid-template-columns: 1fr; gap: 2.5rem; margin: -2.5rem -1.25rem 3rem; padding: 4.2rem 1.25rem; }
   .hero__logo-wrap { width: min(13rem, 55vw); justify-self: start; }
-  .cards, .consultancy-projects, .video-grid, .list-grid, .form-grid, .edinburgh-innovations-partner, .page-intro-with-mark { grid-template-columns: 1fr; }
+  .cards, .consultancy-projects, .video-grid, .site-profile-grid, .list-grid, .form-grid, .edinburgh-innovations-partner, .page-intro-with-mark { grid-template-columns: 1fr; }
   .school-mark { justify-self: start; width: min(16rem, 100%); }
 }
